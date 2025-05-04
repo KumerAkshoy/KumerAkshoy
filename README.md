@@ -1,3 +1,5 @@
+# Akshoy Kumer Dey
+# SQA Engineer
 # 💫 About Me:
 Hi there! I'm a passionate Manual QA Tester with a keen eye for detail and a strong commitment to delivering high-quality software. I specialize in identifying bugs, writing clear and effective test cases, and ensuring a smooth user experience through rigorous testing practices.<br><br>🔍 What I Do:<br><br>Manual Testing (Web & Mobile Applications)<br><br>Writing Test Cases & Bug Reports<br><br>Functional, Regression & Exploratory Testing<br><br>Familiar with SDLC & STLC<br><br>Tools: Jira
 
