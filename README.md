@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshoy</h1>
 <h3 align="center">A passionate SQA Engineer from Bangladesh.</h3>
 
-<h2>Hi there!</h2>I'm a passionate Manual QA Tester with a keen eye for detail and a strong commitment to delivering high-quality software. I specialize in identifying bugs, writing clear and effective test cases, and ensuring a smooth user experience through rigorous testing practices.<br><br>🔍 What I Do:<br><br>Manual Testing (Web Applications)<br><br>Writing Test Cases & Bug Reports<br><br>Functional, Regression & Exploratory Testing<br><br>Familiar with SDLC & STLC<br><br>Tools: Jira <br> <br> Methodology: Agile methodology (Scrum)<br> API Testing Using Postman. 
+<h2>Hi there!</h2>I'm a passionate Manual and Automation QA Tester with a keen eye for detail and a strong commitment to delivering high-quality software. I specialize in identifying bugs, writing clear and effective test cases, and ensuring a smooth user experience through rigorous testing practices.<br><br>🔍 What I Do:<br><br>Manual Testing (Web Applications)<br><br>Writing Test Cases & Bug Reports<br><br>Functional, Regression & Exploratory Testing<br><br>Familiar with SDLC & STLC<br><br>Tools: Jira <br> <br> Methodology: Agile methodology (Scrum)<br> API Testing Using Postman. 
 
 
 ## 🌐 Socials:
